@@ -28,5 +28,5 @@ steps:
   inputs:
     ConnectionType: 'AzureRM'
     appType: 'webApp'
-    WebAppName: 
+    WebAppName: 'carrentalportal'
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
